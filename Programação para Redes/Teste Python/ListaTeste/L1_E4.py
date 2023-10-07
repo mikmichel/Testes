@@ -1,4 +1,5 @@
-#Faça um programa que calcule o aumento de um salário
+#Faça um programa que calcule o aumento de um salário. Ele deve solicitar o valor 
+# o salário e a porcetagem do aumento. Exiba o valor do aumento e do novo salário.
 ##############################################################################
 
 salário = float(input("Digite o salário atual:"))
